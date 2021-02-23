@@ -811,6 +811,86 @@
 
 
 
+/* Como llegar Google maps  */
+
+.link-maps {
+	
+	height: 70px;
+	background-color: white;
+	border-radius: 20px; 
+	margin: 10px;
+}
+
+.usuario-maps > a {
+	float: left;
+	color: black;
+	text-decoration: none;
+	margin-top: 27px;
+	margin-left: 5px;
+
+}
+
+.link-maps > a {
+	float: left;
+	margin-top: 10px;
+	margin-left: 15px;
+	color: black;
+	text-decoration: none;
+
+}	
+
+
+
+.ver-maps   {
+	float: right;
+	margin-top: 24px;
+	margin-right: 20px;
+	/* margin-bottom: 25px;  Revisar el margin afecta al pie de pagina  */
+	
+}
+
+
+
+
+/* Compartir con QR  */
+
+.link-compartir-qr {
+	
+	height: 70px;
+	background-color: white;
+	border-radius: 20px; 
+	margin: 10px;
+}
+
+.usuario-compartir-qr > a {
+	float: left;
+	color: black;
+	text-decoration: none;
+	margin-top: 27px;
+	margin-left: 5px;
+
+}
+
+.link-compartir-qr > a {
+	float: left;
+	margin-top: 10px;
+	margin-left: 15px;
+	color: black;
+	text-decoration: none;
+
+}	
+
+
+
+.ver-compartir-qr   {
+	float: right;
+	margin-top: 24px;
+	margin-right: 20px;
+	/* margin-bottom: 25px;  Revisar el margin afecta al pie de pagina  */
+	
+}
+
+
 
 
 /* Pie de Página    */
